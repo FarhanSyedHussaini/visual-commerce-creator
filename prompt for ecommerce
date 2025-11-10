@@ -1,0 +1,5 @@
+Givea minimalistic ecommerce website that manages sproduct like product details and add to cart, the wesibe to be responsive and should handle the operation
+The techonologies which should be used :react,typescript,tailwindcss
+  for database use postgre.sql , for backend node.js and if possible integrate the api
+for reference use image
+
