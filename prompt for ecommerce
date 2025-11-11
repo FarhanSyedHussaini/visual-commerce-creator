@@ -3,3 +3,13 @@ The techonologies which should be used :react,typescript,tailwindcss
   for database use postgre.sql , for backend node.js and if possible integrate the api
 for reference use image
 
+for this what could be the best prompt
+Prompt to generate the project
+
+You are a senior full-stack engineer. Build a minimalistic, production-ready e-commerce web app (products catalog → product details → add to cart → checkout stub) with a clean, responsive UI.
+
+Tech Stack (strict)
+
+Frontend: React 18, TypeScript, Vite (or Next.js App Router if you prefer SSR), Tailwind CSS.
+
+Routing: React Router (if Vite) or Next.js routing.
